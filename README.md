@@ -14,6 +14,8 @@
 
 📮 You can reach me at yoshi.wind.dev@gmail.com 
 
+💬 Languages: English | Chinese | Japanese(Limited Proficiency)
+
 
 <!--
 **yoshiyyc/yoshiyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
