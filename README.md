@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Hi there, I'm Yoshi
+
+🌱 I’m currently learning front end engineering  
+
+🗂️ Most recent works: [Here](https://github.com/yoshiyyc/hexschool_project#%E5%A4%9A%E9%A0%81%E5%BC%8F%E7%B6%B2%E7%AB%99%E4%BD%9C%E6%A5%AD---multi-pages-website-assignment) 
+
+📮 You can reach me at yoshi.wind.dev@gmail.com 
+
 
 <!--
 **yoshiyyc/yoshiyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
