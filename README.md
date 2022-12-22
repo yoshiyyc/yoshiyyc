@@ -15,7 +15,7 @@
 
 📮 You can reach me at yoshi.wind.dev@gmail.com 
 
-💬 Languages: English | Chinese | Japanese(Intermediate)
+💬 Languages: English | Chinese | Japanese (Intermediate)
 
 
 <!--
