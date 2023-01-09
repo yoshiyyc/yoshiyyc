@@ -10,12 +10,14 @@
 
 🌱 Currently on the journey of learning front end
 
-
-🗂️ Most recent works: [Here](https://github.com/yoshiyyc/hexschool_project#%E5%A4%9A%E9%A0%81%E5%BC%8F%E7%B6%B2%E7%AB%99%E4%BD%9C%E6%A5%AD---multi-pages-website-assignment) 
-
 📮 You can reach me at yoshi.wind.dev@gmail.com 
 
 💬 Languages: English | Chinese | Japanese (Intermediate)
+
+🗂 Portfolio: 
+- [NOMATEM](https://github.com/yoshiyyc/nomatem)
+- [HexSchool React Todolist](https://github.com/yoshiyyc/hexschool_react-todolist)
+- [HexSchool Projects](https://github.com/yoshiyyc/hexschool_project)
 
 
 <!--
