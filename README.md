@@ -14,10 +14,15 @@
 
 💬 Languages: English | Chinese | Japanese (Intermediate)
 
-🗂 Portfolio: 
-- [NOMATEM](https://github.com/yoshiyyc/nomatem)
-- [HexSchool React Todolist](https://github.com/yoshiyyc/hexschool_react-todolist)
-- [HexSchool Projects](https://github.com/yoshiyyc/hexschool_project)
+#
+
+### 🗂 Portfolio: 
+|Project                  |Description|
+|-----------------------|--------|
+|<img src="https://imgur.com/RN5kvBI.jpg" width="300">   |[NOMATEM](https://github.com/yoshiyyc/nomatem)      |
+|<img src="https://imgur.com/Mv755Hp.jpg" width="300">  |[HexSchool React Todolist](https://github.com/yoshiyyc/hexschool_react-todolist)     |
+|<img src="https://imgur.com/BNc0m0u.jpg" width="300">   |[HexSchool Projects](https://github.com/yoshiyyc/hexschool_project)     |
+
 
 
 <!--
