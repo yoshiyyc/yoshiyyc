@@ -23,6 +23,7 @@
 |-----------------------|--------|
 |[<img src="https://imgur.com/RN5kvBI.jpg" width="300">](https://github.com/yoshiyyc/nomatem)   |[NOMATEM](https://github.com/yoshiyyc/nomatem)  <br/><br/> A language social board built with JSON Server    |
 |[<img src="https://imgur.com/Mv755Hp.jpg" width="300">](https://github.com/yoshiyyc/hexschool_react-todolist)  |[HexSchool React Todolist](https://github.com/yoshiyyc/hexschool_react-todolist) <br/><br/> A CRUD todolist built with React that can categorized todo tasks based on the status    |
+|[<img src="https://imgur.com/lOkWaEQ.jpg" width="300">](https://github.com/yoshiyyc/react-omdb)  |[React OMDb Project](https://github.com/yoshiyyc/react-omdb) <br/><br/> A React project built based on OMDb API that is able to search for videos based on titles, year, and types    |
 |[<img src="https://imgur.com/BNc0m0u.jpg" width="300">](https://github.com/yoshiyyc/hexschool_project)   |[HexSchool Projects](https://github.com/yoshiyyc/hexschool_project) <br/><br/> A collection of the final projects from the HexSchool courses. <br/> Skills showcased include HTML, CSS, Sass, Bootstrap, jQuery, JavaScript, RWD, API Connection|
 
 
